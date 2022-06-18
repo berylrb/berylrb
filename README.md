@@ -1,5 +1,7 @@
 ## 👋 Hi! I'm Beryl✨🌺
 
+<img align="center" src="https://i.ibb.co/MD1dg5K/ACS-0267.jpg">
+
 I'm a U.S based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
 
 <div align="center">
@@ -23,6 +25,8 @@ I'm a U.S based software engineer who loves the ocean, philosophical conversatio
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
+  
+  
 </div>
 
 <!--
