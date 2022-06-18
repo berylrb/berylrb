@@ -1,8 +1,12 @@
+## 👋 Hi! I'm Beryl✨🌺
+
+I'm a U.S based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
+
 <div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=berylrb&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berylrb&layout=compact&theme=react" /></a> 
     <div>
-      <h3>Languages and Tools:</h3>
+      <h3>I use these to make stuff:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
