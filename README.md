@@ -1,6 +1,7 @@
+
 <div align="center">
-## 👋 Hi! I'm Beryl✨🌺
-<hr>
+  <h1>👋 Hi! I'm Beryl✨🌺</h1>
+
 <img align="center" src="https://i.ibb.co/MD1dg5K/ACS-0267.jpg">
 
 I'm a U.S based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
