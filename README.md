@@ -6,9 +6,9 @@
 
 I'm a U.S based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
 <hr>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=berylrb&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=berylrb&theme=dracula&show_icons=true&hide_border=true&count_private=true" />  </a>
   <br>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berylrb" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berylrb&theme=dracula&show_icons=true&hide_border=true&layout=compact" />  </a>
   <hr>
     <div>
       <h3>I use these to make stuff:</h3>
