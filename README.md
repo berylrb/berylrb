@@ -5,7 +5,7 @@
 <img align="center" src="https://i.ibb.co/MD1dg5K/ACS-0267.jpg" width="400px">
  <br>
 <br>
-I'm a U.S based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
+I'm a U.S. based software engineer who loves the ocean, philosophical conversations, and creating things (both phsyically and digitally!) 🌊🚀🥰
 <hr>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=berylrb&theme=dracula&show_icons=true&hide_border=true&count_private=true" />  </a>
   <br>
